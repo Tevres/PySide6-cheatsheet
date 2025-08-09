@@ -12,6 +12,7 @@ def main():
 
     win = QtWidgets.QMainWindow()
     win.setWindowTitle("App")
+    layout = QtWidgets.QVBoxLayout(window)
     win.resize(800, 600)
     win.show()
 
