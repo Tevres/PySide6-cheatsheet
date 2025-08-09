@@ -22,9 +22,9 @@ if __name__ == "__main__":
 ```
 
 ## Important Namespaces
--QtWidgets: UI-Widgets (Button, Label, Layouts, Dialoge, MainWindow …)
--QtCore: Basistypen (QObject, QTimer, QThread, Signals/Slots, Datentypen)
--QtGui: Malen, Fonts, Icons, Farben, QPainter, Aktionen, Shortcuts
+* QtWidgets: UI-Widgets (Button, Label, Layouts, Dialoge, MainWindow …)
+* QtCore: Basistypen (QObject, QTimer, QThread, Signals/Slots, Datentypen)
+* QtGui: Malen, Fonts, Icons, Farben, QPainter, Aktionen, Shortcuts
 
 ## Layouts/Widgets, Button, Edit
 ```python
